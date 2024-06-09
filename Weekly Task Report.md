@@ -2,8 +2,7 @@
 
 ## Project: AIS-R Software Development
 ## Team Name: BlackBox Unlimited
-## Submission Date: Week following May 11, 2024
-## Reporting Period: May 12, 2024, to current date
+## Submission Date: 8 June 2024
 ## Team Members:
 Chrisle Mark Ello - 12224706 (Team Leader)
 Billy Mhar Bausin - 12215064
