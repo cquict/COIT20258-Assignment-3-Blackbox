@@ -8,9 +8,9 @@ Chrisle Mark Ello - 12224706 (Team Leader)
 Billy Mhar Bausin - 12215064
 
 ## Week 1:
-Dates: May 12 - May 18, 2024
-Tasks Accomplished:
-•	Assigned team roles where Billy Mhar Bausin was tasked with documentation, code reviews, and supplementary programming tasks, while Chrisle Mark Ello focused on core programming responsibilities.
+## Dates: May 12 - May 18, 2024
+## Tasks Accomplished:
+<br>•	Assigned team roles where Billy Mhar Bausin was tasked with documentation, code reviews, and supplementary programming tasks, while Chrisle Mark Ello focused on core programming responsibilities.</br>
 •	Decision to base the enhancement in Assignment 3 on the program developed by Chrisle Mark Ello, considering its solid basis and alignment with project specifications.
 •	Configuration of database connectivity in NetBeans, which involved modifying the NetBeans module to include necessary SQL libraries ("requires java.sql;") to resolve connectivity issues.
 
