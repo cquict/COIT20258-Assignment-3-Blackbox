@@ -33,5 +33,5 @@ Billy Mhar Bausin - 12215064
 ## Tasks Accomplished:
 <br>•	Final documentation preparations, ensuring alignment with coded functionalities and project requirements. Both team members collaborated to refine content.</br>
 <br>•	Preparation for final submission, including review of all functionalities against project specifications and user requirements as stated in the initial assignment documents.</br>
-<br>•	adjustments based on feedback from trial runs and peer reviews.</br>
+<br>•	Adjustments based on feedback from trial runs and peer reviews.</br>
  
